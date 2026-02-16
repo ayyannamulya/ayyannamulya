@@ -1,6 +1,6 @@
 <div align="center">
   
-# Holla there, I'm Kareen 👋
+# Holla there, I'm Noviyarti Mulyadi 👋
 
 ### Software Engineer | Security Engineer | Full-Stack Developer
 
@@ -79,13 +79,13 @@
 
 <td width="50%" valign="top">
 
-![Your GitHub Stats](https://github-readme-stats-eta-eight-98.vercel.app/api?username=ayyannamulya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Your GitHub Stats](https://github-readme-stats-eta-eight-98.vercel.app/api?username=ayyannamulya&show_icons=true&theme=cobalt&hide_border=true&count_private=true)
 
 </td>
 
 <td width="50%" valign="top">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayyannamulya&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayyannamulya&theme=aura&hide_border=true)
 
 </td>
 </tr>
@@ -100,7 +100,7 @@
 
 ### 📈 Activity Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayyannamulya&theme=tokyo-night&hide_border=true&area=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayyannamulya&theme=aura&hide_border=true&area=true)
 
 </td>
 
@@ -110,7 +110,7 @@
 
 ### 📈 Top Languages
 
-![Top Languages](https://github-readme-stats-eta-eight-98.vercel.app/api/top-langs/?username=ayyannamulya&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats-eta-eight-98.vercel.app/api/top-langs/?username=ayyannamulya&layout=compact&theme=aura_dark&hide_border=true&langs_count=8)
 </td>
 </tr>
 </table>
@@ -251,12 +251,17 @@ const engineer = {
     }
 };
 ```
-## 📊 Contribution Graph
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayyannamulya/ayyannamulya/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayyannamulya/ayyannamulya/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ayyannamulya/ayyannamulya/output/pacman-contribution-graph.svg">
-</picture>
+---
+## 🤝 Professional Contact
+
+Open to discussing software engineering opportunities, security consulting, or collaboration on interesting projects.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+</div>
 
 ---
 
