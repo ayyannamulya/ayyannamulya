@@ -22,8 +22,6 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          start_date: '2026-01-01'
-          end_date: '2026-12-31'
 
 
       - name: push pacman-contribution-graph.svg to the output branch
