@@ -96,7 +96,7 @@
 ### 📅 Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayyannamulya/ayyannamulya/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayyannamulya/ayyannamulya/output/pacman-contribution-graph.svg">
   <img alt="Contribution Graph" src="https://raw.githubusercontent.com/ayyannamulya/ayyannamulya/output/pacman-contribution-graph.svg">
 </picture>
