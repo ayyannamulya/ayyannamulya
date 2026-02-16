@@ -73,17 +73,17 @@
 
 ## 📊 GitHub Stats
 
-<table style="border: none>
+<table>
 <tr>
 
 
-<td width="50%" valign="top" style="border: none>
+<td width="50%" valign="top">
 
 ![Your GitHub Stats](https://github-readme-stats-eta-eight-98.vercel.app/api?username=ayyannamulya&show_icons=true&theme=cobalt&hide_border=true&count_private=true)
 
 </td>
 
-<td width="50%" valign="top" style="border: none>
+<td width="50%" valign="top">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayyannamulya&theme=aura&hide_border=true)
 
@@ -91,12 +91,12 @@
 </tr>
 </table>
 
-<table style="border: none>
+<table>
 <tr>
 
 
 
-<td width="60%" valign="top" style="border: none>
+<td width="60%" valign="top">
 
 ### 📈 Activity Graph
 
@@ -106,7 +106,7 @@
 
 
 
-<td width="33%" valign="top" style="border: none>
+<td width="33%" valign="top">
 
 ### 📈 Top Languages
 
@@ -120,9 +120,9 @@
 
 ## 🚀 Featured Projects
 
-<table style="border: none>
+<table>
 <tr>
-<td width="50%" valign="top" style="border: none>
+<td width="50%" valign="top">
 
 ### 🛒 E-Commerce Platform
 
@@ -133,7 +133,7 @@ Full-stack shopping platform with secure payment integration
 **[Live Demo](https://demo-link.com)** · **[Docs](https://github.com/yourusername/portfolio-projects)**
 
 </td>
-<td width="50%" valign="top" style="border: none>
+<td width="50%" valign="top">
 
 ### 💬 Real-Time Chat App
 
@@ -147,7 +147,7 @@ Encrypted messaging platform with video conferencing
 </tr>
 
 <tr>
-<td width="50%" valign="top" style="border: none>
+<td width="50%" valign="top">
 
 ### 📊 Analytics Dashboard
 
@@ -158,7 +158,7 @@ Real-time metrics tracking with advanced visualizations
 **[Live Demo](https://demo-link.com)** · **[Docs](https://github.com/yourusername/portfolio-projects)**
 
 </td>
-<td width="50%" valign="top" style="border: none>
+<td width="50%" valign="top">
 
 ### 🏥 Healthcare Portal
 
@@ -172,7 +172,7 @@ HIPAA-compliant patient management system
 </tr>
 
 <tr>
-<td width="50%" valign="top" style="border: none>
+<td width="50%" valign="top">
 
 ### 💳 Banking Dashboard
 
@@ -183,7 +183,7 @@ Secure financial transactions platform
 **[Docs](https://github.com/yourusername/portfolio-projects)**
 
 </td>
-<td width="50%" valign="top" style="border: none>
+<td width="50%" valign="top">
 
 ### 🔐 API Gateway Service
 
