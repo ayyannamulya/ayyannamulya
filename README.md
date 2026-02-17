@@ -73,17 +73,17 @@
 
 ## 📊 GitHub Stats
 
-<table>
+<table style="border: none;"> 
 <tr>
 
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="border: none;">
 
 ![Your GitHub Stats](https://github-readme-stats-eta-eight-98.vercel.app/api?username=ayyannamulya&show_icons=true&theme=cobalt&hide_border=true&count_private=true)
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="border: none;">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayyannamulya&theme=aura&hide_border=true)
 
