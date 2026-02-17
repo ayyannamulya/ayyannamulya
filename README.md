@@ -5,7 +5,7 @@
 ### Software Engineer | Security Engineer | Full-Stack Developer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/noviyartimulyadi)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
@@ -73,19 +73,21 @@
 
 ## 📊 GitHub Stats
 
-<table border="0"> 
+<table> 
 <tr>
 
 
 <td width="50%" valign="top">
 
+### 📊 Development Overview
 
 ![Your GitHub Stats](https://github-readme-stats-eta-eight-98.vercel.app/api?username=ayyannamulya&show_icons=true&theme=cobalt&count_private=true&hide_border=true)
-
 
 </td>
 
 <td width="50%" valign="top">
+
+### 🔥 Coding Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayyannamulya&theme=aura&hide_border=true)
 
@@ -100,7 +102,7 @@
 
 <td width="60%" valign="top">
 
-### 📈 Activity Graph
+### 📈 Contribution Timeline
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayyannamulya&theme=aura&hide_border=true&area=true)
 
@@ -110,7 +112,7 @@
 
 <td width="33%" valign="top">
 
-### 📈 Top Languages
+### 💻 Language Breakdown
 
 ![Top Languages](https://github-readme-stats-eta-eight-98.vercel.app/api/top-langs/?username=ayyannamulya&layout=compact&theme=aura_dark&hide_border=true&langs_count=8)
 </td>
