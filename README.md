@@ -73,19 +73,19 @@
 
 ## 📊 GitHub Stats
 
-<table style="border: none;"> 
+<table> 
 <tr>
 
 
-<td width="50%" valign="top" style="border: none;">
+<td width="50%" valign="top">
 
 
-![Your GitHub Stats](https://github-readme-stats-eta-eight-98.vercel.app/api?username=ayyannamulya&show_icons=true&theme=cobalt&count_private=true)
+![Your GitHub Stats](https://github-readme-stats-eta-eight-98.vercel.app/api?username=ayyannamulya&show_icons=true&theme=cobalt&count_private=true&hide_border=true)
 
 
 </td>
 
-<td width="50%" valign="top" style="border: none;">
+<td width="50%" valign="top">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayyannamulya&theme=aura&hide_border=true)
 
