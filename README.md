@@ -73,7 +73,7 @@
 
 ## 📊 GitHub Stats
 
-<table> 
+<table style="border-collapse: collapse;"> 
 <tr>
 
 
