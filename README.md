@@ -80,7 +80,7 @@
 <td width="50%" valign="top" style="border: none;">
 
 
-<img src="https://github-readme-stats-eta-eight-98.vercel.app/api?username=ayyannamulya&show_icons=true&theme=cobalt&hide_border=true&count_private=true" />
+![Your GitHub Stats](https://github-readme-stats-eta-eight-98.vercel.app/api?username=ayyannamulya&show_icons=true&theme=cobalt&count_private=true)
 
 
 </td>
