@@ -232,8 +232,8 @@ const engineer = {
         ],
         
         tech_stack: {
-            frontend: ["React", "Vue.js", "Angular", "Next.js", "TypeScript"],
-            backend: ["Node.js", "Python", "NestJS", "FastAPI", "Express"],
+            frontend: ["React", "Next.js", "TypeScript", "Javascript"],
+            backend: ["Node.js", "Python", "FastAPI", "Express"],
             databases: ["PostgreSQL", "MongoDB", "MySQL", "Redis"],
             security: ["JWT", "OAuth2", "Bcrypt", "Helmet.js", "CORS"],
             devops: ["Docker", "AWS", "CI/CD", "Nginx", "GitHub Actions"]
