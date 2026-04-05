@@ -212,47 +212,53 @@ Microservices gateway with advanced security
 ## 💼 Technical Expertise
 ```javascript
 const engineer = {
-    role: "Software Engineer & Security Engineer",
-    location: "Pontinak, Indonesia",
+    role: "Software Engineer & AI Security Researcher",
+    location: "Indonesia",
     
     expertise: {
         software_engineering: [
             "Full-Stack Development",
             "System Architecture & Design",
-            "Microservices Architecture",
-            "RESTful & GraphQL APIs",
+            "RESTful APIs",
             "Database Design & Optimization"
         ],
         
-        security_engineering: [
-            "Authentication & Authorization (JWT, OAuth2, RBAC)",
-            "OWASP Top 10 Compliance",
-            "Data Encryption (AES, RSA)",
-            "Security Auditing & Penetration Testing",
-            "PCI-DSS & HIPAA Compliance"
+        ai_security_research: [
+            "OWASP LLM Top 10 Vulnerability Research",
+            "LLM Attack Surface Assessment",
+            "AI Firewall Design & Implementation",
+            "SIEM Integration",
+            "Penetration Testing & Vulnerability Assessment"
         ],
         
         tech_stack: {
-            frontend: ["React", "Next.js", "TypeScript", "Javascript"],
-            backend: ["Node.js", "Python", "FastAPI", "Express"],
-            databases: ["PostgreSQL", "MongoDB", "MySQL", "Redis"],
-            security: ["JWT", "OAuth2", "Bcrypt", "Helmet.js", "CORS"],
-            devops: ["Docker", "AWS", "CI/CD", "Nginx", "GitHub Actions"]
+            frontend: ["React", "Next.js", "TypeScript", "JavaScript", "Tailwind CSS"],
+            backend: ["Node.js", "Express", "Laravel", "Python"],
+            databases: ["PostgreSQL", "MongoDB", "MySQL", "Supabase"],
+            ai_llm: ["OpenAI API", "Gemini API", "Claude API"],
+            security: ["Nmap", "Metasploit", "Kali Linux", "Burp Suite", "SIEM", "ELK Stack"],
+            devops: ["Docker", "GitHub Actions", "Nginx", "Vercel", "Sevalla", "GCP"],
+            network: ["Cisco", "Mikrotik", "Wireshark"]
         }
     },
     
     principles: [
         "Security-First Development",
         "Clean Code & SOLID Principles",
-        "Test-Driven Development",
         "Continuous Integration & Deployment"
     ],
     
-    certifications: ["AWS Solutions Architect (In Progress)"],
+    certifications: [
+        "CyberOps Associate — Cisco Networking Academy",
+        "CCNA: Enterprise Networking, Security & Automation — Cisco",
+        "CCNA: Introduction to Networks — Cisco",
+        "CCNA: Switching, Routing & Wireless Essentials — Cisco",
+        "Cybersecurity Essentials — Cisco Networking Academy"
+    ],
     
     availability: {
-        roles: ["Software Engineer", "Security Engineer", "Full-Stack Developer"],
-        type: ["Full-time", "Contract", "Consulting"]
+        roles: ["Software Engineer", "AI Security Engineer", "Backend Developer"],
+        type: ["Full-time", "Contract"]
     }
 };
 ```
