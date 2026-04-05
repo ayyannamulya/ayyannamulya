@@ -14,17 +14,18 @@
 
 ## 👨‍💻 About Me
 
-**Software Engineer specializing in secure application development.** I architect and build full-stack enterprise applications where security isn't an afterthought, it's the foundation. I bridge the gap between high-performance software engineering and bulletproof security practices.
+**Software Engineer specializing in secure application development — where security isn't an afterthought, it's the foundation.** My work sits at the intersection of full-stack engineering and AI security research. I build production-ready backend systems, design scalable data layers, and actively research LLM vulnerabilities based on the OWASP LLM Top 10 — exploring AI attack surfaces from prompt injection to model denial of service.
 
-**Professional Focus:**
+**What I focus on:**
 
-- **Software Engineering:** Architecting and developing robust full-stack applications using modern frameworks and design patterns
-- **Security Engineering:** Implementing security-first development practices, authentication systems, and ensuring OWASP Top 10 compliance
-- **System Design:** Building scalable microservices architectures with emphasis on performance and reliability
+- 🛠️ **Software Engineering:** Full-stack development using TypeScript, Node.js, React, and Next.js.
+- 🔐 **AI Security Research:** LLM vulnerability assessment, AI firewall design, and SIEM integration.
+- 🗄️**Database Design:** PostgreSQL, MongoDB, and MySQL with a focus on performance and scalability.
+- 🌐 **Network & Security** PostgreSQL, MongoDB, and MySQL with a focus on performance and scalability.
 
-**Current Work:** Developing secure web applications with focus on authentication systems and data protection  
+**Current Work:** Building full-stack applications and researching OWASP LLM Top 10 vulnerabilities.  
 **Specialization:** Full-stack development • Application security • API design • Database optimization  
-**Open to:** Software Engineer roles • Security Engineer positions • Technical consulting opportunities
+**Open to:** Software Engineer roles • Security Engineer positions • AI Security Engineer
 
 ---
 
