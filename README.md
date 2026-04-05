@@ -2,7 +2,7 @@
   
 # Holla there, I'm Noviyarti Mulyadi 👋
 
-### Software Engineer | Security Engineer | Full-Stack Developer
+### Software Engineer | AI Security Researcher | Security Engineer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/noviyartimulyadi)
