@@ -18,10 +18,10 @@
 
 **What I focus on:**
 
-🛠️ **Software Engineering:** Full-stack development using TypeScript, Node.js, React, and Next.js.
-🔐 **AI Security Research:** LLM vulnerability assessment, AI firewall design, and SIEM integration.
-🗄️**Database Design:** PostgreSQL, MongoDB, and MySQL with a focus on performance and scalability.
-🌐 **Network & Security** PostgreSQL, MongoDB, and MySQL with a focus on performance and scalability.
+- 🛠️ **Software Engineering:** Full-stack development using TypeScript, Node.js, React, and Next.js.
+- 🔐 **AI Security Research:** LLM vulnerability assessment, AI firewall design, and SIEM integration.
+- 🗄️**Database Design:** PostgreSQL, MongoDB, and MySQL with a focus on performance and scalability.
+- 🌐 **Network & Security** PostgreSQL, MongoDB, and MySQL with a focus on performance and scalability.
 
 **Current Work:** Building full-stack applications and researching OWASP LLM Top 10 vulnerabilities.  
 **Open to:** Software Engineer roles • Security Engineer positions • AI Security Engineer
