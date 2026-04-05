@@ -129,82 +129,30 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 E-Commerce Platform
+### 🛠️ Fullstack Showcase
+A collection of full-stack projects spanning backend development, AI integration, and frontend — built with TypeScript, Node.js, React, and Next.js.
 
-Full-stack shopping platform with secure payment integration
+`TypeScript` `Node.js` `Next.js` `React` `PostgreSQL` `MongoDB`
 
-`React` `Node.js` `MongoDB` `Stripe` `Redis`
-
-**[Live Demo](https://demo-link.com)** · **[Docs](https://github.com/yourusername/portfolio-projects)**
-
-</td>
-<td width="50%" valign="top">
-
-### 💬 Real-Time Chat App
-
-Encrypted messaging platform with video conferencing
-
-`React` `Socket.io` `WebRTC` `MongoDB` `JWT`
-
-**[Live Demo](https://demo-link.com)** · **[Docs](https://github.com/yourusername/portfolio-projects)**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 📊 Analytics Dashboard
-
-Real-time metrics tracking with advanced visualizations
-
-`Vue.js` `Flask` `PostgreSQL` `Redis` `Chart.js`
-
-**[Live Demo](https://demo-link.com)** · **[Docs](https://github.com/yourusername/portfolio-projects)**
+**[View Repository](https://github.com/yourusername/fullstack-showcase)**
 
 </td>
 <td width="50%" valign="top">
 
-### 🏥 Healthcare Portal
+### 🔐 AI Security Showcase
+Hands-on research projects covering OWASP LLM Top 10 vulnerabilities, AI firewall design, and SIEM integration — built with Python and TypeScript.
 
-HIPAA-compliant patient management system
+`Python` `TypeScript` `OpenAI API` `Gemini API` `Claude API` `SIEM`
 
-`Next.js` `NestJS` `MySQL` `JWT` `AWS S3`
-
-**[Docs](https://github.com/yourusername/portfolio-projects)**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 💳 Banking Dashboard
-
-Secure financial transactions platform
-
-`React` `Express` `PostgreSQL` `Bcrypt` `Nginx`
-
-**[Docs](https://github.com/yourusername/portfolio-projects)**
-
-</td>
-<td width="50%" valign="top">
-
-### 🔐 API Gateway Service
-
-Microservices gateway with advanced security
-
-`React` `Node.js` `Kong` `Redis` `Docker`
-
-**[Docs](https://github.com/yourusername/portfolio-projects)**
+**[View Repository](https://github.com/yourusername/ai-security-showcase)**
 
 </td>
 </tr>
 </table>
 
 <div align="center">
-  
-**[📂 View All Projects](https://github.com/yourusername/portfolio-projects)**
+
+**[📂 Full Project Portfolio](https://your-portfolio-link.com)**
 
 </div>
 
