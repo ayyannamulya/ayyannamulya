@@ -135,12 +135,12 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🛠️ Fullstack Showcase
+### 🛠️ Software Engineering Showcase
 A collection of full-stack projects spanning backend development, AI integration, and frontend — built with TypeScript, Node.js, React, and Next.js.
 
 `TypeScript` `Node.js` `Next.js` `React` `PostgreSQL` `MongoDB`
 
-**[View Repository](https://github.com/yourusername/fullstack-showcase)**
+**[📂 View Repository](https://github.com/ayyannamulya/software-engineering-showcase)**
 
 </td>
 <td width="50%" valign="top">
@@ -150,7 +150,7 @@ Hands-on research projects covering OWASP LLM Top 10 vulnerabilities, AI firewal
 
 `Python` `TypeScript` `OpenAI API` `Gemini API` `Claude API` `SIEM`
 
-**[View Repository](https://github.com/yourusername/ai-security-showcase)**
+**[📂 View Repository](https://github.com/ayyannamulya/ai-security-showcase)**
 
 </td>
 </tr>
@@ -158,7 +158,7 @@ Hands-on research projects covering OWASP LLM Top 10 vulnerabilities, AI firewal
 
 <div align="center">
 
-**[📂 Full Project Portfolio](https://your-portfolio-link.com)**
+**[👨‍💻 Full Project Portfolio](https://ayyanna-mulya.vercel.app)**
 
 </div>
 
