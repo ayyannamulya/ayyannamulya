@@ -121,7 +121,7 @@
 
 ### 💻 Language Breakdown
 
-![Top Languages](https://github-readme-stats-eta-eight-98.vercel.app/api/top-langs/?username=ayyannamulya&layout=compact&theme=aura_dark&hide_border=true&langs_count=10)
+![Top Languages](https://github-readme-stats-eta-eight-98.vercel.app/api/top-langs/?username=ayyannamulya&layout=compact&theme=aura_dark&count_private=true&hide_border=true&langs_count=10)
 </td>
 </tr>
 </table>
