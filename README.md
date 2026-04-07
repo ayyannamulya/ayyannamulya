@@ -4,7 +4,7 @@
 
 ### Software Engineer | AI Security Researcher | Security Engineer
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ayyanna-mulya.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/noviyartimulyadi)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noviyartimulyadi11@gmail.com)
 
@@ -121,7 +121,7 @@
 
 ### 💻 Language Breakdown
 
-![Top Languages](https://github-readme-stats-eta-eight-98.vercel.app/api/top-langs/?username=ayyannamulya&layout=compact&theme=aura_dark&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats-eta-eight-98.vercel.app/api/top-langs/?username=ayyannamulya&layout=compact&theme=aura_dark&hide_border=true&langs_count=6)
 </td>
 </tr>
 </table>
