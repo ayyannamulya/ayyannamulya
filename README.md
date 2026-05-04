@@ -1,6 +1,6 @@
 <div align="center">
   
-# Holla there, I'm Ayyanna Mulyadi 👋
+# Holla there, I'm Ayyanna Mulya 👋
 
 ### Software Engineer | AI Security Researcher | Security Engineer
 
