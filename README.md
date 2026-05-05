@@ -233,6 +233,6 @@ Open to discussing software engineering opportunities, security consulting, or c
 
 ### 💡 "Security is not a product, but a process." – Bruce Schneier
 
-⭐ **From [Ayyanna](https://github.com/ayyannamulya)**
+⭐ **From [Ayyanna Mulya](https://github.com/ayyannamulya)**
 
 </div>
