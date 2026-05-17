@@ -2,7 +2,7 @@
   
 # Holla there, I'm Ayyanna Mulya 👋
 
-### Software Engineer | AI Security Researcher | Security Engineer
+### Software Engineer | AI Security Researcher |AI Engineer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ayyanna-mulya.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/noviyartimulyadi)
