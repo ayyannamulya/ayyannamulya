@@ -202,7 +202,7 @@ const engineer = {
             backend: ["Node.js", "Express", "Laravel", "Python"],
             databases: ["PostgreSQL", "MongoDB", "MySQL", "Supabase", "Neon"],
             ai_llm: ["OpenAI API", "Gemini API", "Claude API"],
-            security: ["Nmap", "Metasploit", "Kali Linux", "Burp Suite", "SIEM", "ELK Stack"],
+            security: ["Garak", "Nmap", "Metasploit", "Kali Linux", "Burp Suite", "SIEM", "ELK Stack"],
             devops: ["Docker", "GitHub Actions", "Nginx", "Vercel", "Sevalla", "GCP"],
             network: ["Cisco", "Mikrotik", "Wireshark"]
         }
