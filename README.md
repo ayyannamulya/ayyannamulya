@@ -87,6 +87,7 @@
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![OAuth](https://img.shields.io/badge/OAuth-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
 ![badge](https://shieldcn.dev/badge/MikroTik.svg?logo=mikrotik)
+![badge](https://shieldcn.dev/badge/Debian-22c55e.svg?logo=debian&logoColor=ef4444&color=ffffff)
 
 
 ---
