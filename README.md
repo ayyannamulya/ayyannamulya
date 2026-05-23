@@ -180,7 +180,7 @@ Hands-on research projects covering OWASP LLM Top 10 vulnerabilities, AI firewal
 ## 💼 Technical Expertise
 ```javascript
 const engineer = {
-    role: "Software Engineer & AI Security Researcher",
+    role: "Software Engineer & AI Security",
     location: "Indonesia",
     
     expertise: {
