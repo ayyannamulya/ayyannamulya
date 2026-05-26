@@ -162,7 +162,7 @@ A collection of full-stack projects spanning backend development, AI integration
 ### 🔐 AI Security Showcase
 Hands-on research projects covering OWASP LLM Top 10 vulnerabilities, AI firewall design, and SIEM integration — built with Python and TypeScript.
 
-`Python` `TypeScript` `OWASP` `OpenAI API` `Gemini API` `Claude API` `SIEM` `Garak`
+`Python` `TypeScript` `OWASP` `OpenAI API` `Gemini API` `Claude API` `SIEM` `Garak` 
 
 **[📂 View Repository](https://github.com/ayyannamulya/ai-security-showcase)**
 
@@ -203,7 +203,7 @@ const engineer = {
             frontend: ["React", "Next.js", "TypeScript", "JavaScript", "Tailwind CSS"],
             backend: ["Node.js", "Express", "Laravel", "Python"],
             databases: ["PostgreSQL", "MongoDB", "MySQL", "Supabase", "Neon"],
-            ai_llm: ["OpenAI API", "Gemini API", "Claude API"],
+            ai_llm: ["OpenAI API", "Gemini API", "Claude API", "Groq"],
             security: ["Garak", "Nmap", "Metasploit", "Kali Linux", "Burp Suite", "SIEM", "ELK Stack"],
             devops: ["Docker", "GitHub Actions", "Nginx", "Vercel", "Sevalla", "GCP"],
             network: ["Cisco", "Mikrotik", "Wireshark"]
