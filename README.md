@@ -162,7 +162,7 @@ A collection of full-stack projects spanning backend development, AI integration
 ### 🔐 AI Security Showcase
 Hands-on research projects covering OWASP LLM Top 10 vulnerabilities, AI firewall design, and SIEM integration — built with Python and TypeScript.
 
-`Python` `TypeScript` `OWASP` `OpenAI API` `Gemini API` `Claude API` `SIEM`
+`Python` `TypeScript` `OWASP` `OpenAI API` `Gemini API` `Claude API` `SIEM` `Garak`
 
 **[📂 View Repository](https://github.com/ayyannamulya/ai-security-showcase)**
 
