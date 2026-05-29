@@ -198,7 +198,8 @@ const engineer = {
             "LLM Attack Surface Assessment",
             "AI Firewall Design & Implementation",
             "SIEM Integration",
-            "Vulnerability Assessment"
+            "Vulnerability Assessment",
+            "Threat Modeling"
         ],
         
         tech_stack: {
