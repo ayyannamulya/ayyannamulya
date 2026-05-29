@@ -14,7 +14,8 @@
 
 ## 👨‍💻 About Me
 
-**Software Engineer specializing in secure application development — where security isn't an afterthought, it's the foundation.** My work sits at the intersection of full-stack engineering and AI security research. I build production-ready backend systems, design scalable data layers, and actively research LLM vulnerabilities based on the OWASP LLM Top 10 — exploring AI attack surfaces from prompt injection to model denial of service.
+Software Engineer at the intersection of full-stack development and AI security research. I build production systems and actively 
+research how they fail — from LLM vulnerabilities to agentic attack surfaces.
 
 **What I focus on:**
 
