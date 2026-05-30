@@ -20,22 +20,10 @@
 
 🛠️ On the engineering side, I ship production-grade systems in TypeScript and Python. Understanding what you're attacking requires knowing how to build it.
 
+🔍 `Agentic AI` · `MCP Injection` · `Multi-agent Trust` · `Prompt Injection` · `OWASP LLM Top 10` · `MITRE ATLAS` · `CWE`
+
 💼 **Open to:** AI Security Engineer · Security Engineer · Software Engineer
 
----
-
-## 🕵️ Research & Findings
-
-Hands-on adversarial research targeting agentic AI systems in production. Every finding is classified against MITRE ATLAS, OWASP LLM Top 10, and CWE.
-
-| Attack Class | Finding | CWE |
-|---|---|---|
-| Delegation Escalation | No single agent breaks policy. The chain does. | CWE-269, CWE-284 |
-| Prompt & Tool-Call Injection | Environment inputs agents trust by default — and shouldn't. | CWE-74, CWE-20 |
-| Trust Boundary Collapse | Inherited trust propagates silently across orchestration layers. | CWE-441, CWE-346 |
-| Network-Layer Tracing | Exfiltration and C2 paths traced end-to-end, not just at the app layer. | — |
-
-🔍 `Agentic AI` · `MCP Injection` · `Multi-agent Trust` · `Prompt Injection` · `OWASP LLM Top 10` · `MITRE ATLAS` · `CWE`
 
 ---
 
@@ -102,6 +90,7 @@ Hands-on adversarial research targeting agentic AI systems in production. Every 
 ![Debian](https://img.shields.io/badge/Debian-A80030?style=for-the-badge&logo=debian&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 
+### 🔐 AI Security & Network
 
 ---
 
