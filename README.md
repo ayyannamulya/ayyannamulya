@@ -105,52 +105,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<table> 
-<tr>
-
-
-<td width="50%" valign="top">
-
-### 📊 Development Overview
-
-![Your GitHub Stats](https://github-readme-stats-eta-eight-98.vercel.app/api?username=ayyannamulya&show_icons=true&theme=cobalt&count_private=true&hide_border=true)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🔥 Coding Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayyannamulya&theme=aura&hide_border=true)
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-
-
-
-<td width="60%" valign="top">
-
-### 📈 Contribution Timeline
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayyannamulya&theme=aura&hide_border=true&area=true)
-
-</td>
-
-
-
-
-</tr>
-</table>
-
----
-
-
 ## 🚀 Featured Projects
 
 <table>
@@ -221,14 +175,60 @@ const ayyannamulyadi = {
   availability:  ["AI Security Engineer", "Security Engineer", "Software Engineer"],
 };
 ```
+
+## 📊 GitHub Stats
+
+<table> 
+<tr>
+
+
+<td width="50%" valign="top">
+
+### 📊 Development Overview
+
+![Your GitHub Stats](https://github-readme-stats-eta-eight-98.vercel.app/api?username=ayyannamulya&show_icons=true&theme=cobalt&count_private=true&hide_border=true)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔥 Coding Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayyannamulya&theme=aura&hide_border=true)
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+
+
+
+<td width="60%" valign="top">
+
+### 📈 Contribution Timeline
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayyannamulya&theme=aura&hide_border=true&area=true)
+
+</td>
+
+
+
+
+</tr>
+</table>
+
+---
+
 ---
 ## 🤝 Professional Contact
 
 If you're building something that needs to be secured before it ships — or broken before someone else does — let's talk.
 
-[![LinkedIn](https://shieldcn.dev/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/noviyartimulyadi)
-[![Portfolio](https://shieldcn.dev/badge/Portfolio-000000.svg?logo=vercel&logoColor=white)](https://ayyanna-mulya.vercel.app)
-[![Email](https://shieldcn.dev/badge/Email-D14836.svg?logo=gmail&logoColor=white)](mailto:noviayya1121@gmail.com)
+[![LinkedIn](https://shieldcn.dev/badge/LinkedIn-Connect-0077B5.svg?variant=outline&logo=linkedin)](https://linkedin.com/in/noviyartimulyadi)
+[![Portfolio](https://shieldcn.dev/badge/Portfolio-Visit-000000.svg?variant=outline&logo=About.me)](https://ayyanna-mulya.vercel.app)
+[![Email](https://shieldcn.dev/badge/Email-Contact-D14836.svg?variant=outline&logo=gmail)](mailto:noviayya1121@gmail.com)
 
 
 ---
