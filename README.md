@@ -145,7 +145,7 @@ Every project ships with threat model documentation and attack methodology.
 ---
 ## 💼 Technical Expertise
 ```javascript
-const ayyannamulyadi = {
+const ayyannamulya = {
   role: ["AI Security Engineer", "Software Engineer"],
 
   security: {
