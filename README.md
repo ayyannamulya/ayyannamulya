@@ -144,12 +144,7 @@
 
 
 
-<td width="33%" valign="top">
 
-### 💻 Language Breakdown
-
-![Top Languages](https://github-readme-stats-eta-eight-98.vercel.app/api/top-langs/?username=ayyannamulya&layout=compact&theme=aura_dark&count_private=true&hide_border=true&langs_count=8)
-</td>
 </tr>
 </table>
 
@@ -162,20 +157,24 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🛠️ Software Engineering Showcase
-A collection of full-stack projects spanning backend development, AI integration, and frontend — built with TypeScript, Node.js, React, and Next.js.
+### ⚙️ Software Engineering Showcase
+Production-grade full-stack systems built for scale — backend architecture, 
+database design, AI API integration, and real-time features shipped to 
+production. Not tutorials. Not templates.
 
-`TypeScript` `Node.js` `Next.js` `React` `PostgreSQL` `MongoDB`
+`TypeScript` `Node.js` `Next.js` `React` `PostgreSQL` `MongoDB` `Python` `Docker`
 
 **[📂 View Repository](https://github.com/ayyannamulya/software-engineering-showcase)**
 
 </td>
 <td width="50%" valign="top">
 
-### 🔐 AI Security Showcase
-Hands-on research projects covering OWASP LLM Top 10 vulnerabilities, AI firewall design, and SIEM integration — built with Python and TypeScript.
+### 🕵️ AI Security Showcase
+Hands-on adversarial research targeting OWASP LLM Top 10 — PoC attacks, 
+AI firewall implementation, and SIEM integration built from scratch. 
+Every project ships with threat model documentation and attack methodology.
 
-`Python` `TypeScript` `OWASP` `OpenAI API` `Gemini API` `Claude API` `SIEM` `Garak` 
+`Python` `TypeScript` `OpenAI` `Gemini` `Claude` `Garak` `LangChain` `OWASP` `SIEM` `MITRE ATLAS`
 
 **[📂 View Repository](https://github.com/ayyannamulya/ai-security-showcase)**
 
