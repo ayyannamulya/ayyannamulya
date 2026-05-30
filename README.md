@@ -13,36 +13,27 @@
 ---
 
 ## 👨‍💻 About Me
-**AI Security Engineer and Software Engineer** who builds production systems 
-and breaks the AI ones — starting at the agentic layer, where most defenses 
-don't reach.
 
-I research LLM-integrated and agentic AI systems adversarially. Not checklist 
-audits — purpose-built frameworks that force exploitable behavior to the 
-surface, with findings traced to MITRE ATLAS, OWASP LLM Top 10, and CWE.
+**AI Security Engineer and Software Engineer** who builds production systems and breaks the AI ones — starting at the agentic layer, where most defenses don't reach. I research LLM-integrated and agentic AI systems adversarially. Not checklist audits — purpose-built frameworks that force exploitable behavior to the surface, with findings traced to MITRE ATLAS, OWASP LLM Top 10, and CWE.
 
-🌐 That attack-surface thinking runs on top of real network engineering — 
-routing, switching, and infrastructure built hands-on with Cisco and Mikrotik. 
-When I reason about agentic exfiltration, C2 channels, or lateral movement, 
-I'm tracing it at the network layer too, not just the application layer.
+🌐 That attack-surface thinking runs on top of real network engineering — routing, switching, and infrastructure built hands-on with Cisco and Mikrotik. When I reason about agentic exfiltration, C2 channels, or lateral movement, I'm tracing it at the network layer too, not just the application layer.
 
-🛠️ On the engineering side, I ship production-grade systems in TypeScript and 
-Python. Understanding what you're attacking requires knowing how to build it.
+🛠️ On the engineering side, I ship production-grade systems in TypeScript and Python. Understanding what you're attacking requires knowing how to build it.
 
 💼 **Open to:** AI Security Engineer · Security Engineer · Software Engineer
 
 ---
 
-## ⚔️ Research & Findings
+## 🕵️ Research & Findings
 
-Hands-on adversarial research targeting agentic AI systems in production.  Every finding is classified against MITRE ATLAS, OWASP LLM Top 10, and CWE.
+Hands-on adversarial research targeting agentic AI systems in production. Every finding is classified against MITRE ATLAS, OWASP LLM Top 10, and CWE.
 
 | Attack Class | Finding | CWE |
 |---|---|---|
-| ⚡ Delegation Escalation | No single agent breaks policy. The chain does. | CWE-269, CWE-284 |
-| 💀 Prompt & Tool-Call Injection | Environment inputs agents trust by default — and shouldn't. | CWE-74, CWE-20 |
-| 🎯 Trust Boundary Collapse | Inherited trust propagates silently across orchestration layers. | CWE-441, CWE-346 |
-| ⚠️ Network-Layer Tracing | Exfiltration and C2 paths traced end-to-end, not just at the app layer. | — |
+| Delegation Escalation | No single agent breaks policy. The chain does. | CWE-269, CWE-284 |
+| Prompt & Tool-Call Injection | Environment inputs agents trust by default — and shouldn't. | CWE-74, CWE-20 |
+| Trust Boundary Collapse | Inherited trust propagates silently across orchestration layers. | CWE-441, CWE-346 |
+| Network-Layer Tracing | Exfiltration and C2 paths traced end-to-end, not just at the app layer. | — |
 
 🔍 `Agentic AI` · `MCP Injection` · `Multi-agent Trust` · `Prompt Injection` · `OWASP LLM Top 10` · `MITRE ATLAS` · `CWE`
 
