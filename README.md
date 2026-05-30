@@ -191,56 +191,34 @@ Every project ships with threat model documentation and attack methodology.
 ---
 ## 💼 Technical Expertise
 ```javascript
-const engineer = {
-    role: "Software Engineer & AI Security",
-    location: "Indonesia",
-    
-    expertise: {
-        software_engineering: [
-            "Full-Stack Development",
-            "System Architecture & Design",
-            "RESTful APIs",
-            "Database Design & Optimization"
-        ],
-        
-        ai_security_research: [
-            "OWASP LLM Top 10 Vulnerability Research",
-            "LLM Attack Surface Assessment",
-            "AI Firewall Design & Implementation",
-            "SIEM Integration",
-            "Vulnerability Assessment",
-            "Threat Modeling"
-        ],
-        
-        tech_stack: {
-            frontend: ["React", "Next.js", "TypeScript", "JavaScript", "Tailwind CSS"],
-            backend: ["Node.js", "Express", "Laravel", "Python"],
-            databases: ["PostgreSQL", "MongoDB", "MySQL", "Supabase", "Neon"],
-            ai_llm: ["OpenAI API", "Gemini API", "Claude API", "Groq"],
-            security: ["Garak", "Nmap", "Metasploit", "Kali Linux", "Burp Suite", "SIEM", "ELK Stack"],
-            devops: ["Docker", "GitHub Actions", "Nginx", "Vercel", "Sevalla", "GCP"],
-            network: ["Cisco", "Mikrotik", "Wireshark"]
-        }
-    },
-    
-    principles: [
-        "Security-First Development",
-        "Clean Code & SOLID Principles",
-        "Continuous Integration & Deployment"
-    ],
-    
-    certifications: [
-        "CyberOps Associate — Cisco Networking Academy",
-        "CCNA: Enterprise Networking, Security & Automation — Cisco",
-        "CCNA: Introduction to Networks — Cisco",
-        "CCNA: Switching, Routing & Wireless Essentials — Cisco",
-        "Cybersecurity Essentials — Cisco Networking Academy"
-    ],
-    
-    availability: {
-        roles: ["Software Engineer", "AI Security Engineer", "Backend Developer"],
-        type: ["Full-time", "Contract"]
-    }
+const ayyannamulyadi = {
+  role: ["AI Security Engineer", "Software Engineer"],
+
+  security: {
+    research:    ["Agentic AI Attack Chains", "Multi-agent Trust Collapse",
+                 "Tool-call & MCP Injection", "Indirect Prompt Injection",
+                 "Orchestration Privilege Escalation", "RAG Poisoning"],
+    frameworks:  ["MITRE ATLAS", "OWASP LLM Top 10", "NIST AI RMF", "CWE"],
+    tools:       ["Garak", "Burp Suite", "Metasploit", "Nmap", "Wireshark"],
+  },
+
+  engineering: {
+    stack:       ["TypeScript", "Python", "JavaScript", "Next.js", "React",
+                 "Node.js", "Express", "FastAPI", "PostgreSQL", "MongoDB",
+                 "Redis", "Tailwind"],
+    ai:          ["LangChain", "LangGraph", "CrewAI", "MCP",
+                 "OpenAI", "Gemini", "Claude", "Vercel AI SDK"],
+    devops:      ["Docker", "GitHub Actions", "GCP", "Vercel"],
+  },
+
+  network: {
+    stack:       ["Cisco", "Mikrotik", "TCP/IP", "Routing & Switching"],
+    certs:       ["CyberOps Associate", "CCNA Enterprise", "CCNA Intro",
+                 "CCNA Switching & Routing", "Cybersecurity Essentials"],
+  },
+
+  mindset:       "Attacker-first. Every system is a target until proven otherwise.",
+  availability:  ["AI Security Engineer", "Security Engineer", "Software Engineer"],
 };
 ```
 ---
