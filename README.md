@@ -224,14 +224,12 @@ const ayyannamulyadi = {
 ---
 ## 🤝 Professional Contact
 
-Open to discussing software engineering opportunities, security consulting, or collaboration on interesting projects.
+If you're building something that needs to be secured before it ships — or broken before someone else does — let's talk.
 
-<div align="center">
+[![LinkedIn](https://shieldcn.dev/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/noviyartimulyadi)
+[![Portfolio](https://shieldcn.dev/badge/Portfolio-000000.svg?logo=vercel&logoColor=white)](https://ayyanna-mulya.vercel.app)
+[![Email](https://shieldcn.dev/badge/Email-D14836.svg?logo=gmail&logoColor=white)](mailto:noviayya1121@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/noviyartimulyadi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ayyanna-mulya.vercel.app)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noviayya1121@gmail.com)
-</div>
 
 ---
 
