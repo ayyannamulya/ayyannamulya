@@ -111,18 +111,6 @@
 <tr>
 <td width="50%" valign="top">
 
-### ⚙️ Software Engineering Showcase
-Production-grade full-stack systems built for scale — backend architecture, 
-database design, AI API integration, and real-time features shipped to 
-production. Not tutorials. Not templates.
-
-`TypeScript` `Node.js` `Next.js` `React` `PostgreSQL` `MongoDB` `Python` `Docker`
-
-**[📂 View Repository](https://github.com/ayyannamulya/software-engineering-showcase)**
-
-</td>
-<td width="50%" valign="top">
-
 ### 🕵️ AI Security Showcase
 Hands-on adversarial research targeting OWASP LLM Top 10 — PoC attacks, 
 AI firewall implementation, and SIEM integration built from scratch. 
@@ -131,6 +119,18 @@ Every project ships with threat model documentation and attack methodology.
 `Python` `TypeScript` `OpenAI` `Gemini` `Claude` `Garak` `LangChain` `OWASP` `SIEM` `MITRE ATLAS`
 
 **[📂 View Repository](https://github.com/ayyannamulya/ai-security-showcase)**
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Software Engineering Showcase
+Production-grade full-stack systems built for scale — backend architecture, 
+database design, AI API integration, and real-time features shipped to 
+production. Not tutorials. Not templates.
+
+`TypeScript` `Node.js` `Next.js` `React` `PostgreSQL` `MongoDB` `Python` `Docker`
+
+**[📂 View Repository](https://github.com/ayyannamulya/software-engineering-showcase)**
 
 </td>
 </tr>
