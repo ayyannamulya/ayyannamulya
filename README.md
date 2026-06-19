@@ -105,6 +105,22 @@
 
 ---
 
+## 🔬 Security Research & Advisories
+
+> Attacker-first. Reproducible.
+
+Every system is a target until proven otherwise.
+Research that finds what defenders haven't thought to look for yet.
+
+**Attack Surfaces I Cover:**
+`AI Red Teaming` `Agentic Pipelines` `MCP Security` `ML Supply Chain`
+`Prompt Injection` `Multi-Agent Systems` `Trust Boundaries` `LLM Evaluation`
+
+Mapped to `MITRE ATLAS` · `OWASP LLM Top 10` · `NIST AI RMF` · `CWE`
+
+**[📂 View Research →](https://github.com/ayyannamulya/cartograph)**
+
+---
 ## 🚀 Featured Projects
 
 <table>
