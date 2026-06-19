@@ -154,7 +154,7 @@ const research = {
 ```
 <div align="center">
 
-**[📂 View Researches →](https://github.com/ayyannamulya/security_research)**
+**[📂 View Research →](https://github.com/ayyannamulya/security_research)**
 
 </div>
 
@@ -197,7 +197,7 @@ const ayyannamulya = {
 };
 ```
 
-<!-- ## 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <table> 
 <tr>
@@ -240,7 +240,7 @@ const ayyannamulya = {
 </tr>
 </table>
 
---- -->
+---
 
 ---
 ## 🤝 Professional Contact
