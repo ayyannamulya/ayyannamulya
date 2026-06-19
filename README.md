@@ -105,58 +105,74 @@
 
 ---
 
-## 🔬 Security Research & Advisories
+## 🎯 Work That Ships & Research That Cuts
 
-> Attacker-first. Reproducible.
-
-Every system is a target until proven otherwise.
-Research that finds what defenders haven't thought to look for yet.
-
-**Attack Surfaces I Cover:**
-`AI Red Teaming` `Agentic Pipelines` `MCP Security` `ML Supply Chain`
-`Prompt Injection` `Multi-Agent Systems` `Trust Boundaries` `LLM Evaluation`
-
-Mapped to `MITRE ATLAS` · `OWASP LLM Top 10` · `NIST AI RMF` · `CWE`
-
-**[📂 View Research →](https://github.com/ayyannamulya/cartograph)**
-
----
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="30%" valign="top">
 
-### 🕵️ AI Security Showcase
-Hands-on adversarial research targeting OWASP LLM Top 10 — PoC attacks, 
-AI firewall implementation, and SIEM integration built from scratch. 
+#### 🕵️ AI Security Showcase
+Hands-on adversarial research targeting OWASP LLM Top 10 — PoC attacks,
+AI firewall implementation, and SIEM integration built from scratch.
 Every project ships with threat model documentation and attack methodology.
 
 `Python` `TypeScript` `OpenAI` `Gemini` `Claude` `Garak` `LangChain` `OWASP` `SIEM` `MITRE ATLAS`
 
-**[📂 View Repository](https://github.com/ayyannamulya/ai-security-showcase)**
+**[📂 View Repository →](https://github.com/ayyannamulya/ai-security-showcase)**
 
 </td>
-<td width="50%" valign="top">
+<td width="30%" valign="top">
 
-### ⚙️ Software Engineering Showcase
-Production-grade full-stack systems built for scale — backend architecture, 
-database design, AI API integration, and real-time features shipped to 
+#### ⚙️ Software Engineering Showcase
+Production-grade full-stack systems built for scale — backend architecture,
+database design, AI API integration, and real-time features shipped to
 production. Not tutorials. Not templates.
 
 `TypeScript` `Node.js` `Next.js` `React` `PostgreSQL` `MongoDB` `Python` `Docker`
 
-**[📂 View Repository](https://github.com/ayyannamulya/software-engineering-showcase)**
+**[📂 View Repository →](https://github.com/ayyannamulya/software-engineering-showcase)**
+
+</td>
+<td width="30%" valign="top">
+
+#### 🕵️ AI Security Showcase
+Hands-on adversarial research targeting OWASP LLM Top 10 — PoC attacks,
+AI firewall implementation, and SIEM integration built from scratch.
+Every project ships with threat model documentation and attack methodology.
+
+`Python` `TypeScript` `OpenAI` `Gemini` `Claude` `Garak` `LangChain` `OWASP` `SIEM` `MITRE ATLAS`
+
+**[📂 View Repository →](https://github.com/ayyannamulya/ai-security-showcase)**
 
 </td>
 </tr>
 </table>
 
+<br/>
+
+### 🔬 Security Research & Advisories
+
+```javascript
+const research = {
+  focus:    "Production agentic systems — tool-use pipelines, multi-agent orchestration, " +
+            "and LLM-powered automation where trust boundaries collapse under adversarial pressure.",
+  contains: "A growing collection of independent security research — each piece " +
+            "independently scoped, adversarially framed, and mapped to industry taxonomies.",
+  domains:  ["AI Red Teaming", "Agentic Pipelines", "MCP Security",
+             "ML Supply Chain", "Prompt Injection", "Multi-Agent Systems",
+             "Trust Boundaries", "LLM Evaluation"],
+};
+```
+
 <div align="center">
 
-**[👨‍💻 Full Project Portfolio](https://ayyanna-mulya.vercel.app)**
+**[📂 View Research →](https://github.com/ayyannamulya/cartograph)**
 
 </div>
+
+---
 
 ---
 ## 💼 Technical Expertise
