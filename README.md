@@ -29,7 +29,7 @@
 
 ## 🛠️ Tech Stack
 
-### Software Development
+### 🚀 Software Development
 <div align="left">
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="1" />
@@ -138,7 +138,7 @@ production. Not tutorials. Not templates.
 
 <table>
 <tr>
-<td >
+<td width="60%" valign="top">
 
 ### 🔬 Security Research & Advisories
 ```javascript
@@ -154,7 +154,7 @@ const research = {
 ```
 <div align="center">
 
-**[📂 View Research →](https://github.com/ayyannamulya/security_research)**
+**[📂 View Research →](https://github.com/ayyannamulya/security-research)**
 
 </div>
 
@@ -201,8 +201,6 @@ const ayyannamulya = {
 
 <table> 
 <tr>
-
-
 <td width="50%" valign="top">
 
 ### 📊 Development Overview
@@ -224,8 +222,6 @@ const ayyannamulya = {
 <table>
 <tr>
 
-
-
 <td width="60%" valign="top">
 
 ### 📈 Contribution Timeline
@@ -233,14 +229,8 @@ const ayyannamulya = {
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayyannamulya&theme=aura&hide_border=true&area=true)
 
 </td>
-
-
-
-
 </tr>
 </table>
-
----
 
 ---
 ## 🤝 Professional Contact
