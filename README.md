@@ -107,6 +107,8 @@
 
 ## 🎯 Work That Ships & Research That Cuts
 
+###  Featured Project
+
 <table>
 <tr>
 <td width="50%" valign="top">
