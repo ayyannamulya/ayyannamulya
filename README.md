@@ -107,8 +107,6 @@
 
 ## 🎯 Work That Ships & Research That Cuts
 
-###  Featured Project
-
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -140,7 +138,7 @@ production. Not tutorials. Not templates.
 
 <table>
 <tr>
-<td>
+<td >
 
 ### 🔬 Security Research & Advisories
 ```javascript
