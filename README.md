@@ -2,7 +2,7 @@
   
 # Holla there, I'm Ayyanna Mulya 👋
 
-### AI Security | AI Engineer | Security Engineer | Software Engineer 
+### AI Security Engineer & Researcher · Security Engineer · Software Engineer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ayyanna-mulya.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/noviyartimulyadi)
@@ -14,20 +14,42 @@
 
 ## 👨‍💻 About Me
 
-**AI Security Engineer and Software Engineer** who builds production systems and breaks the AI ones — starting at the agentic layer, where most defenses don't reach. I research LLM-integrated and agentic AI systems adversarially. Not checklist audits — purpose-built frameworks that force exploitable behavior to the surface, with findings traced to MITRE ATLAS, OWASP LLM Top 10, and CWE.
-
-🌐 That attack-surface thinking runs on top of real network engineering — routing, switching, and infrastructure built hands-on with Cisco and Mikrotik. When I reason about agentic exfiltration, C2 channels, or lateral movement, I'm tracing it at the network layer too, not just the application layer.
-
-🛠️ On the engineering side, I ship production-grade systems in TypeScript and Python. Understanding what you're attacking requires knowing how to build it.
-
-🔍 `Agentic AI` · `MCP Injection` · `Multi-agent Trust` · `Prompt Injection` · `OWASP LLM Top 10` · `MITRE ATLAS` · `CWE`
-
-💼 **Open to:** AI Security Engineer · Security Engineer · Software Engineer
-
+**AI Security Engineer and Researcher** who builds production systems and breaks the AI ones — starting at the agentic layer, where most defenses don't reach. I research LLM-integrated and agentic AI systems adversarially: purpose-built frameworks that force exploitable behavior to the surface, not checklist audits. Findings are traced to MITRE ATLAS, OWASP LLM Top 10, and CWE.
+ 
+🌐 That attack-surface thinking runs on top of real network engineering — routing, switching, and infrastructure built hands-on with Cisco and MikroTik. When I reason about agentic exfiltration, C2 channels, or lateral movement, I'm tracing it at the network layer too, not just the application layer.
+ 
+🛠️ On the engineering side, I ship production-grade systems in Python and TypeScript. Understanding what you're attacking requires knowing how to build it — the SWE background isn't a separate track, it's what makes the security research grounded instead of theoretical.
+ 
+🔬 **Currently exploring:** arithmetic rounding-direction vulnerabilities in smart contracts (OWASP SC07:2026) — building an LLM rounding-direction auditor and benchmark with contamination-split methodology.
+ 
+🔍 `Agentic AI Security` · `MCP Injection` · `Multi-Agent Trust Collapse` · `Prompt Injection` · `ML Supply Chain` · `OWASP LLM Top 10` · `MITRE ATLAS`
+ 
+💼 **Open to:** AI Security Engineer · Security Researcher · Security Engineer
 
 ---
 
 ## 🛠️ Tech Stack
+
+### 🔐 AI Engineering & Security
+
+![Garak](https://img.shields.io/badge/Garak-FF0000?style=for-the-badge&logo=python&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangFuse-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logo=crewai&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ### 🚀 Software Development
 <div align="left">
@@ -75,26 +97,6 @@
   <img width="1" />
 </div>
 
-### 🔐 AI Engineering & Security
-
-![Garak](https://img.shields.io/badge/Garak-FF0000?style=for-the-badge&logo=python&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![OAuth](https://img.shields.io/badge/OAuth-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangFuse-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logo=crewai&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white)
-![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
 
 
 ### 🌐 Network
