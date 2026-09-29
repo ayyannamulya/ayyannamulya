@@ -247,10 +247,10 @@ If you're building something that needs to be secured before it ships — or bro
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 
 ### 💡 "Security is not a product, but a process." – Bruce Schneier
 
 ⭐ **From [Ayyanna Mulya](https://github.com/ayyannamulya)**
 
-</div>
+</div> -->
