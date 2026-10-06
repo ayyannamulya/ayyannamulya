@@ -225,13 +225,13 @@ const ayyannamulya = {
 <table>
 <tr>
 
-<td width="60%" valign="top">
+<!-- <td width="60%" valign="top">
 
 ### 📈 Contribution Timeline
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayyannamulya&theme=aura&hide_border=true&area=true)
 
-</td>
+</td> -->
 </tr>
 </table>
 
