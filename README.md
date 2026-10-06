@@ -16,13 +16,13 @@
 
 ## AI Security Engineer and Researcher | Adversarial AI, LLM and Agentic Systems
 
-AI Security Engineer and Researcher focused on the security of LLM integrated and agentic AI systems. Research centers on adversarial testing, exploit development, and attack surface analysis, with purpose built frameworks designed to expose exploitable behavior beyond conventional security assessments. Findings are mapped to **MITRE ATLAS, OWASP LLM Top 10, and CWE** where applicable.
+🧠 AI Security Engineer and Researcher focused on the security of LLM integrated and agentic AI systems. Research centers on adversarial testing, exploit development, and attack surface analysis, with purpose built frameworks designed to expose exploitable behavior beyond conventional security assessments. Findings are mapped to MITRE ATLAS, OWASP LLM Top 10, and CWE where applicable.
 
-The security research is grounded in hands on network engineering across routing, switching, and infrastructure, with experience in **Cisco and MikroTik** environments. This foundation enables analysis of attack paths across both application and network layers, including data exfiltration, command and control channels, and lateral movement.
+🌐 The security research is grounded in hands on network engineering across routing, switching, and infrastructure, with experience in Cisco and MikroTik environments. This foundation enables analysis of attack paths across both application and network layers, including data exfiltration, command and control channels, and lateral movement.
 
-Production systems and security tooling are developed primarily with **Python and TypeScript**. A software engineering background spanning applications, APIs, infrastructure, and security tooling provides the engineering perspective required to assess how AI systems are built, deployed, and ultimately exploited.
+⚙️ Production systems and security tooling are developed primarily with Python and TypeScript. A software engineering background spanning applications, APIs, infrastructure, and security tooling provides the engineering perspective required to assess how AI systems are built, deployed, and ultimately exploited.
 
-**Current research** focuses on arithmetic rounding direction vulnerabilities in smart contracts, aligned with **OWASP SC07:2026**. An LLM based rounding direction auditor and benchmark is being developed using a contamination split evaluation methodology.
+🔬 Current research focuses on arithmetic rounding direction vulnerabilities in smart contracts, aligned with OWASP SC07:2026. An LLM based rounding direction auditor and benchmark is being developed using a contamination split evaluation methodology.
  
 🔍 `Agentic AI Security` · `MCP Injection` · `Multi-Agent Trust Collapse` · `Prompt Injection` · `ML Supply Chain` · `OWASP LLM Top 10` · `MITRE ATLAS`
  
